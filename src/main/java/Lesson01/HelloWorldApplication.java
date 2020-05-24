@@ -1,4 +1,4 @@
-package Lesson01.Lesson01;
+package Lesson01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
